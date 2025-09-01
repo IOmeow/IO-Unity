@@ -1,0 +1,10 @@
+{
+  "name": "com.iomeow.uitools",
+  "version": "1.0.0",
+  "displayName": "IOmeow UI Tools",
+  "description": "UI Tools organized by IOmeow.",
+  "author": {
+    "name": "IOmeow"
+  },
+  "dependencies": {}
+}
